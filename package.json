@@ -1,0 +1,8 @@
+{
+  "name": "nodeLesson",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:phggg/nodeLesson.git",
+  "author": "zhaoziwei <1728434772@qq.com>",
+  "license": "MIT"
+}
